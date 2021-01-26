@@ -1,0 +1,2 @@
+https://www.kaggle.com/ttungl/adience-benchmark-gender-and-age-classification
+Download and sort them into the folders
